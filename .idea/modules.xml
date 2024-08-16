@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Clase1/Clase1.iml" filepath="$PROJECT_DIR$/Clase1/Clase1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Clase1/Clase1.iml" filepath="$PROJECT_DIR$/src/Clase1/Clase1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taller estructura de datos.iml" filepath="$PROJECT_DIR$/Taller estructura de datos.iml" />
     </modules>
   </component>
